@@ -10,8 +10,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is complete:
 
-* [√] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [√] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -30,7 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [ezgif](https://ezgif.com).
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/47392852/143077611-589634e7-9041-4215-bbdc-91f929b0ae04.gif)
+![ezgif com-gif-maker-3](https://user-images.githubusercontent.com/47392852/143083873-6e45caed-8018-4a8f-bfdd-60e5f4144b2d.gif)
+
 
 
 ## Notes
